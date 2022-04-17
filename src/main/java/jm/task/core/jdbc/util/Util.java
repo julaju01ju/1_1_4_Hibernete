@@ -35,7 +35,7 @@ public class Util {
                 properties.put(Environment.DRIVER, "com.mysql.cj.jdbc.Driver");
                 properties.put(Environment.URL, "jdbc:mysql://localhost:3306/Hibernate");
                 properties.put(Environment.USER, "root");
-                properties.put(Environment.PASS, "120387nadya");
+                properties.put(Environment.PASS, "root");
                 properties.put(Environment.DIALECT, "org.hibernate.dialect.MySQL5Dialect");
                 properties.put(Environment.SHOW_SQL, "true");
                 properties.put(Environment.CURRENT_SESSION_CONTEXT_CLASS, "thread");
