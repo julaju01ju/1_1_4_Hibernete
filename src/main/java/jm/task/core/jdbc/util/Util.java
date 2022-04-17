@@ -13,7 +13,7 @@ public class Util {
     // реализуйте настройку соеденения с БД
     private static final String url = "jdbc:mysql://localhost:3306/Hibernate";
     private static final String userName = "root";
-    private static String password = "120387nadya";
+    private static String password = "root";
     private static SessionFactory sessionFactory;
 
     public static Connection getConnection() {
